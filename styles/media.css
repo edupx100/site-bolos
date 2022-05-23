@@ -30,7 +30,13 @@
       
     }
 
+        
+    .text {
+        margin-top: 50px;
+        margin:auto;
+        width: 300px;
+        height: 150px;
+        text-align: center;
+    }
     
-
-   
 }
